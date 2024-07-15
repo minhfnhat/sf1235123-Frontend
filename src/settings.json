@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Empowering Your Business with Cutting-Edge Technology and Insightful Strategies",
+        "title": "Innovative Solutions for Modern Challenges"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Empowering Your Business with Cutting-Edge Technology and Insightful Strategies",
+        "title": "Innovative Solutions for Modern Challenges"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Empowering Your Business with Cutting-Edge Technology and Insightful Strategies",
+        "title": "Innovative Solutions for Modern Challenges"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Empowering Your Business with Cutting-Edge Technology and Insightful Strategies",
+        "title": "Innovative Solutions for Modern Challenges"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Empowering Your Business with Cutting-Edge Technology and Insightful Strategies",
+        "title": "Innovative Solutions for Modern Challenges"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Empowering Your Business with Cutting-Edge Technology and Insightful Strategies",
+        "title": "Innovative Solutions for Modern Challenges"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Empowering Your Business with Cutting-Edge Technology and Insightful Strategies",
+        "title": "Innovative Solutions for Modern Challenges"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Empowering Your Business with Cutting-Edge Technology and Insightful Strategies",
+        "title": "Innovative Solutions for Modern Challenges"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Innovative Solutions for Modern Challenges",
+  "subtitle": "Empowering Your Business with Cutting-Edge Technology and Insightful Strategies"
+}
